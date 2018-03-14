@@ -1,0 +1,35 @@
+命令稿啟動於 2018年03月14日 下午 02:21:03
+
+]0;~
+[32mUSER@MSI [33m~[0m
+$ 
+]0;~
+[32mUSER@MSI [33m~[0m
+$ whoami;pwd
+USER
+/home/USER
+]0;~
+[32mUSER@MSI [33m~[0m
+$ git config -l
+user.email=forever3069@gmail.com
+user.name=anuuanuu
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+remote.origin.url=https://github.com/anuuanuu/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;~
+[32mUSER@MSI [33m~[0m
+$ git clonehttps:// https://[C[C[C[C[C[C[C[Cgithub.com/anuuanuu/lab-1.1[K[K[K[K1-1.git
+Cloning into 'lab1-1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32mUSER@MSI [33m~[0m
+$ exit
+
+命令稿已於 2018年03月14日 下午 02:22:43
+ 完成
