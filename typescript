@@ -1,0 +1,32 @@
+命令稿啟動於 2018年03月15日 下午 08:40:32
+]0;~/lab1-1
+[32mUSER@MSI [33m~/lab1-1[0m
+$ gcc[K[K++ odd.cpp
+]0;~/lab1-1
+[32mUSER@MSI [33m~/lab1-1[0m
+$ ./ a.exe
+bash: ./: Is a directory
+]0;~/lab1-1
+[32mUSER@MSI [33m~/lab1-1[0m
+$ ./ a
+bash: ./: Is a directory
+]0;~/lab1-1
+[32mUSER@MSI [33m~/lab1-1[0m
+$ ./a
+a 10
+you number10
+now5
+now16
+now8
+now4
+now2
+now1
+]0;~/lab1-1
+[32mUSER@MSI [33m~/lab1-1[0m
+$ a[Kcat typescript
+]0;~/lab1-1
+[32mUSER@MSI [33m~/lab1-1[0m
+$ mv lab1.script [K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+
+命令稿已於 2018年03月15日 下午 08:43:59
+ 完成
