@@ -5,7 +5,7 @@ g++ odd.cpp
 ./a
 接下來就可以輸入數值
 其中odd.cpp是我對於第二題的檔案
-
+typescript 是我對於第二題的檔案
 另外我的環境是win10 
 及以下是我的軟體版本
 Package                                 Version                       Status
