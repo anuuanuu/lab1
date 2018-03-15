@@ -6,6 +6,8 @@ g++ odd.cpp
 接下來就可以輸入數值
 其中odd.cpp是我對於第二題的檔案
 typescript 是我對於第二題的檔案
+!請注意 請不要輸入小於等於0或是過大的數 會有問題!
+
 另外我的環境是win10 
 及以下是我的軟體版本
 Package                                 Version                       Status
